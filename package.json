@@ -1,0 +1,19 @@
+{
+  "name": "hex-color",
+  "version": "1.0.0",
+  "description": "Library for colors",
+  "main": "HexColor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/En-nnaddam/hex-color.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/En-nnaddam/hex-color/issues"
+  },
+  "homepage": "https://github.com/En-nnaddam/hex-color#readme"
+}
