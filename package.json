@@ -1,5 +1,5 @@
 {
-  "name": "hex-color",
+  "name": "@en-naddam/hex-color",
   "version": "1.0.0",
   "description": "Library for colors",
   "main": "HexColor.js",
